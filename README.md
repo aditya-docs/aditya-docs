@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!</h1>
-<p>Welcome to my page! I'm Aditya, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/299/299702.png" width="13"/> <b>Lucknow, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>London, United Kingdom</b>. </p>
+<p>Welcome to my page! I'm Aditya, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/299/299702.png" width="13"/> <b>India</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>London, United Kingdom</b>. </p>
 
 <h3>About me</h3>
 <ul>
