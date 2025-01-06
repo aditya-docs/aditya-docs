@@ -42,5 +42,4 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/aditya-singh-bitsp" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://topmate.io/aditya_singh_js"><img src='https://svgshare.com/i/15nC.svg' title='topmate' /></a>
 </p>
